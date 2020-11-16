@@ -23,3 +23,22 @@ h3 {
   font-family: Helvetica;
   font-size: 25px;
 }
+
+body {
+  background-color: #e4d7d7;
+}
+
+a:link {
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #bf7aff;
+  border-radius: 7px;
+  color: white;
+  padding: 7px 10px;
+  width: fit-content;
+}
+
+a:link:hover {
+  background-color: #bf7aff9d;;
+  width: fit-content;
+}
